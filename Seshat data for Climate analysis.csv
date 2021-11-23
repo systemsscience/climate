@@ -1,0 +1,415 @@
+Row,PolID,NGA,Region,UTM,UTMLat,NorthofTropicofCancer,NorthernRegion,InNorthernRegion,OldWorld,Time,TimeK,CoolingPeriod,PC1,Age,AgeK
+1,Hawaii1,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1000,1,0,-4.354728003,0,0
+2,Hawaii2,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1200,1.2,0,-4.236787133,200,0.2
+3,Hawaii2,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1300,1.3,1,-4.114438949,300,0.3
+4,Hawaii2,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1400,1.4,1,-3.674560993,400,0.4
+5,Hawaii2,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1500,1.5,1,-3.508529863,500,0.5
+6,Hawaii2,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1600,1.6,0,-4.22358021,600,0.6
+7,Hawaii3,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1700,1.7,0,-2.545152137,700,0.7
+8,USKameh,Big Island Hawaii,Oceania-Australia,4-5Q,Q,0,No,0,0,1800,1.8,0,-2.17244762,800,0.8
+9,USMisEW,Cahokia,North America,15S,S,1,North America,1,0,-600,-0.6,0,-5.918389794,0,0
+10,USMisMW,Cahokia,North America,15S,S,1,North America,1,0,-100,-0.1,0,-5.587922195,500,0.5
+11,USMisRo,Cahokia,North America,15S,S,1,North America,1,0,300,0.3,1,-5.687052682,900,0.9
+12,USMisMu,Cahokia,North America,15S,S,1,North America,1,0,500,0.5,1,-5.704191706,1100,1.1
+13,USMisPa,Cahokia,North America,15S,S,1,North America,1,0,600,0.6,0,-5.395691699,1200,1.2
+14,USMisSp,Cahokia,North America,15S,S,1,North America,1,0,800,0.8,0,-4.671510798,1400,1.4
+15,USMisME,Cahokia,North America,15S,S,1,North America,1,0,900,0.9,0,-4.111876413,1500,1.5
+16,USMisME,Cahokia,North America,15S,S,1,North America,1,0,1000,1,0,-3.970615875,1600,1.6
+17,USCahoE,Cahokia,North America,15S,S,1,North America,1,0,1100,1.1,0,-2.566672651,1700,1.7
+18,USCahoL,Cahokia,North America,15S,S,1,North America,1,0,1200,1.2,0,-2.556513498,1800,1.8
+19,USMisSd,Cahokia,North America,15S,S,1,North America,1,0,1300,1.3,1,-2.984122823,1900,1.9
+20,USOneot,Cahokia,North America,15S,S,1,North America,1,0,1400,1.4,1,-4.004373575,2000,2
+21,KhFunaE,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,300,0.3,1,0.744358486,0,0
+22,KhFunaL,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,600,0.6,0,0.811895123,300,0.3
+23,KhChenl,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,700,0.7,0,1.527038832,400,0.4
+24,KhChenl,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,800,0.8,0,1.740142263,500,0.5
+25,KhAngkE,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,900,0.9,0,2.651003687,600,0.6
+26,KhAngkE,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1000,1,0,2.335341614,700,0.7
+27,KhAngkC,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1100,1.1,0,2.623569775,800,0.8
+28,KhAngkL,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1300,1.3,1,2.218943703,1000,1
+29,KhCambd,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1500,1.5,1,2.347103926,1200,1.2
+30,ThAyuth,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1600,1.6,0,2.224795341,1300,1.3
+31,ThAyuth,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1700,1.7,0,2.272271388,1400,1.4
+32,ThRattn,Cambodian Basin,Southeast Asia,48P,P,0,No,0,1,1800,1.8,0,2.165334403,1500,1.5
+33,IdMedng,Central Java,Southeast Asia,49M,M,0,No,0,1,800,0.8,0,0.670223544,0,0
+34,IdMedng,Central Java,Southeast Asia,49M,M,0,No,0,1,900,0.9,0,0.71731039,100,0.1
+35,IdKedir,Central Java,Southeast Asia,49M,M,0,No,0,1,1100,1.1,0,1.418090017,300,0.3
+36,IdKedir,Central Java,Southeast Asia,49M,M,0,No,0,1,1200,1.2,0,1.197900606,400,0.4
+37,IdMajap,Central Java,Southeast Asia,49M,M,0,No,0,1,1300,1.3,1,1.913319969,500,0.5
+38,IdMatrm,Central Java,Southeast Asia,49M,M,0,No,0,1,1600,1.6,0,1.812936491,800,0.8
+39,FmTrukE,Chuuk Islands,Oceania-Australia,56N,N,0,No,0,0,1800,1.8,0,-4.306612831,0,0
+40,FmTrukL,Chuuk Islands,Oceania-Australia,56N,N,0,No,0,0,1900,1.9,0,-1.321894029,100,0.1
+41,PeCuzLF,Cuzco,South America,18-19L,L,0,No,0,0,100,0.1,0,-3.492325369,0,0
+42,PeCuzE1,Cuzco,South America,18-19L,L,0,No,0,0,200,0.2,0,-4.03238898,100,0.1
+43,PeCuzE1,Cuzco,South America,18-19L,L,0,No,0,0,300,0.3,1,-3.74881761,200,0.2
+44,PeCuzE1,Cuzco,South America,18-19L,L,0,No,0,0,400,0.4,1,-4.166551264,300,0.3
+45,PeCuzE2,Cuzco,South America,18-19L,L,0,No,0,0,500,0.5,1,-3.919746381,400,0.4
+46,PeWari*,Cuzco,South America,18-19L,L,0,No,0,0,700,0.7,0,-1.096199496,600,0.6
+47,PeCuzL1,Cuzco,South America,18-19L,L,0,No,0,0,1000,1,0,-3.544196276,900,0.9
+48,PeCuzL2,Cuzco,South America,18-19L,L,0,No,0,0,1300,1.3,1,-2.522493239,1200,1.2
+49,PeInca*,Cuzco,South America,18-19L,L,0,No,0,0,1400,1.4,1,-0.098112719,1300,1.3
+50,PeInca*,Cuzco,South America,18-19L,L,0,No,0,0,1500,1.5,1,0.029549586,1400,1.4
+51,InDecNL,Deccan,South Asia,43P,P,0,No,0,1,-2700,-2.7,0,-3.39206087,0,0
+52,InDecIA,Deccan,South Asia,43P,P,0,No,0,1,-1200,-1.2,0,-3.939829418,1500,1.5
+53,InDecIA,Deccan,South Asia,43P,P,0,No,0,1,-900,-0.9,1,-3.715239905,1800,1.8
+54,InDecIA,Deccan,South Asia,43P,P,0,No,0,1,-500,-0.5,0,-3.09579678,2200,2.2
+55,InSataL,Deccan,South Asia,43P,P,0,No,0,1,-100,-0.1,0,1.755230697,2600,2.6
+56,InSataL,Deccan,South Asia,43P,P,0,No,0,1,0,0,0,1.757461907,2700,2.7
+57,InSataL,Deccan,South Asia,43P,P,0,No,0,1,100,0.1,0,1.766602945,2800,2.8
+58,InSataL,Deccan,South Asia,43P,P,0,No,0,1,200,0.2,0,1.779452648,2900,2.9
+59,InVakat,Deccan,South Asia,43P,P,0,No,0,1,300,0.3,1,1.895842773,3000,3
+60,InKadam,Deccan,South Asia,43P,P,0,No,0,1,500,0.5,1,1.39264545,3200,3.2
+61,InChaBd,Deccan,South Asia,43P,P,0,No,0,1,600,0.6,0,2.272165012,3300,3.3
+62,InChaBd,Deccan,South Asia,43P,P,0,No,0,1,700,0.7,0,2.314990422,3400,3.4
+63,InRasht,Deccan,South Asia,43P,P,0,No,0,1,800,0.8,0,1.94505471,3500,3.5
+64,InRasht,Deccan,South Asia,43P,P,0,No,0,1,900,0.9,0,1.947887635,3600,3.6
+65,InChaKl,Deccan,South Asia,43P,P,0,No,0,1,1000,1,0,2.409421232,3700,3.7
+66,InHoysa,Deccan,South Asia,43P,P,0,No,0,1,1200,1.2,0,1.980454251,3900,3.9
+67,InKampi,Deccan,South Asia,43P,P,0,No,0,1,1300,1.3,1,0.617619649,4000,4
+68,InVijay,Deccan,South Asia,43P,P,0,No,0,1,1400,1.4,1,2.275302209,4100,4.1
+69,InVijay,Deccan,South Asia,43P,P,0,No,0,1,1500,1.5,1,2.341227735,4200,4.2
+70,InVijay,Deccan,South Asia,43P,P,0,No,0,1,1600,1.6,0,2.405218688,4300,4.3
+71,UsIroqE,Finger Lakes,North America,18T,T,1,North America,1,0,1600,1.6,0,-2.959305049,0,0
+72,UsIroqE,Finger Lakes,North America,18T,T,1,North America,1,0,1700,1.7,0,-2.621360562,100,0.1
+73,UsIroqL,Finger Lakes,North America,18T,T,1,North America,1,0,1800,1.8,0,-2.418594933,200,0.2
+74,InGaroE,Garo Hills,South Asia,46R,R,1,No,0,1,1800,1.8,0,-3.926142197,0,0
+75,InGaroL,Garo Hills,South Asia,46R,R,1,No,0,1,1900,1.9,0,-0.716618802,100,0.1
+76,GhAshnE,Ghanaian Coast,Africa,30N,N,0,No,0,1,1600,1.6,0,-1.888369789,0,0
+77,GhAshnL,Ghanaian Coast,Africa,30N,N,0,No,0,1,1800,1.8,0,0.236366539,200,0.2
+78,IsCommw,Iceland,Europe,27W,W,1,Europe,1,1,1000,1,0,-2.596034195,0,0
+79,IsCommw,Iceland,Europe,27W,W,1,Europe,1,1,1100,1.1,0,-1.934238688,100,0.1
+80,IsCommw,Iceland,Europe,27W,W,1,Europe,1,1,1200,1.2,0,-1.26193172,200,0.2
+81,NorKing,Iceland,Europe,27W,W,1,Europe,1,1,1300,1.3,1,-0.593486331,300,0.3
+82,PkAcerN,Kachi Plain,South Asia,42R,R,1,No,0,1,-7500,-7.5,1,-4.343489888,0,0
+83,PkCeraN,Kachi Plain,South Asia,42R,R,1,No,0,1,-5500,-5.5,0,-4.521531102,2000,2
+84,PkChalc,Kachi Plain,South Asia,42R,R,1,No,0,1,-4000,-4,0,-3.421812836,3500,3.5
+85,PkPreUr,Kachi Plain,South Asia,42R,R,1,No,0,1,-3200,-3.2,0,-3.723211472,4300,4.3
+86,PkUrbn1,Kachi Plain,South Asia,42R,R,1,No,0,1,-2500,-2.5,0,0.462240793,5000,5
+87,PkPostU,Kachi Plain,South Asia,42R,R,1,No,0,1,-1800,-1.8,0,-3.186887728,5700,5.7
+88,PkProto,Kachi Plain,South Asia,42R,R,1,No,0,1,-1300,-1.3,0,-2.394087478,6200,6.2
+89,InMaury,Kachi Plain,South Asia,42R,R,1,No,0,1,-300,-0.3,0,2.416782975,7200,7.2
+90,PkIndGr,Kachi Plain,South Asia,42R,R,1,No,0,1,-100,-0.1,0,1.780310755,7400,7.4
+91,PkSind1,Kachi Plain,South Asia,42R,R,1,No,0,1,900,0.9,0,1.208244998,8400,8.4
+92,PkSind1,Kachi Plain,South Asia,42R,R,1,No,0,1,1000,1,0,1.370937519,8500,8.5
+93,PkSind1,Kachi Plain,South Asia,42R,R,1,No,0,1,1100,1.1,0,1.16912015,8600,8.6
+94,AfGhurd,Kachi Plain,South Asia,42R,R,1,No,0,1,1200,1.2,0,2.257685752,8700,8.7
+95,InDelh*,Kachi Plain,South Asia,42R,R,1,No,0,1,1300,1.3,1,3.269023828,8800,8.8
+96,PkSind2,Kachi Plain,South Asia,42R,R,1,No,0,1,1400,1.4,1,1.541381809,8900,8.9
+97,PkSind2,Kachi Plain,South Asia,42R,R,1,No,0,1,1500,1.5,1,1.273678925,9000,9
+98,InMugl*,Kachi Plain,South Asia,42R,R,1,No,0,1,1600,1.6,0,2.152265984,9100,9.1
+99,InMugl*,Kachi Plain,South Asia,42R,R,1,No,0,1,1700,1.7,0,3.190240506,9200,9.2
+100,AfDurrn,Kachi Plain,South Asia,42R,R,1,No,0,1,1800,1.8,0,0.984806247,9300,9.3
+101,JpYayoi,Kansai,East Asia,53S,S,1,East Asia,1,1,-300,-0.3,0,-3.667687519,0,0
+102,JpKofun,Kansai,East Asia,53S,S,1,East Asia,1,1,300,0.3,1,-1.494490141,600,0.6
+103,JpKofun,Kansai,East Asia,53S,S,1,East Asia,1,1,400,0.4,1,-1.052043085,700,0.7
+104,JpKofun,Kansai,East Asia,53S,S,1,East Asia,1,1,500,0.5,1,-0.356547198,800,0.8
+105,JpAsuka,Kansai,East Asia,53S,S,1,East Asia,1,1,600,0.6,0,1.603512558,900,0.9
+106,JpAsuka,Kansai,East Asia,53S,S,1,East Asia,1,1,700,0.7,0,1.483587593,1000,1
+107,JpHeian,Kansai,East Asia,53S,S,1,East Asia,1,1,800,0.8,0,2.248353288,1100,1.1
+108,JpHeian,Kansai,East Asia,53S,S,1,East Asia,1,1,900,0.9,0,2.275251218,1200,1.2
+109,JpHeian,Kansai,East Asia,53S,S,1,East Asia,1,1,1000,1,0,2.249130005,1300,1.3
+110,JpHeian,Kansai,East Asia,53S,S,1,East Asia,1,1,1100,1.1,0,2.26760974,1400,1.4
+111,JpKamak,Kansai,East Asia,53S,S,1,East Asia,1,1,1200,1.2,0,2.114425741,1500,1.5
+112,JpKamak,Kansai,East Asia,53S,S,1,East Asia,1,1,1300,1.3,1,2.066092048,1600,1.6
+113,JpAshik,Kansai,East Asia,53S,S,1,East Asia,1,1,1400,1.4,1,2.183696898,1700,1.7
+114,JpSengk,Kansai,East Asia,53S,S,1,East Asia,1,1,1500,1.5,1,1.496221436,1800,1.8
+115,JpAzMom,Kansai,East Asia,53S,S,1,East Asia,1,1,1600,1.6,0,2.248966457,1900,1.9
+116,JpTokgw,Kansai,East Asia,53S,S,1,East Asia,1,1,1700,1.7,0,3.259268947,2000,2
+117,JpTokgw,Kansai,East Asia,53S,S,1,East Asia,1,1,1800,1.8,0,3.278530288,2100,2.1
+118,IdBrokE,Kapuasi Basin,Southeast Asia,49N,N,0,No,0,1,1700,1.7,0,-4.704061039,0,0
+119,IdBrokL,Kapuasi Basin,Southeast Asia,49N,N,0,No,0,1,1900,1.9,0,-2.388319066,200,0.2
+120,TrNeoER,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-9600,-9.6,0,-5.608001453,0,0
+121,TrNeoCR,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-7000,-7,0,-4.94387784,2600,2.6
+122,TrNeoLT,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-6600,-6.6,0,-4.692324729,3000,3
+123,TrClcER,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-6000,-6,0,-4.054665862,3600,3.6
+124,TrClcLT,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-5000,-5,0,-3.718041122,4600,4.6
+125,TrBrzER,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-3000,-3,0,-0.925311553,6600,6.6
+126,TrBrzMD,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-2000,-2,0,-0.109748675,7600,7.6
+127,TrHatOK,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-1600,-1.6,0,0.767451129,8000,8
+128,TrBrzL2,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-1500,-1.5,0,0.996445155,8100,8.1
+129,TrBrzL2,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-1400,-1.4,0,0.901772167,8200,8.2
+130,TrHatNK,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-1300,-1.3,0,1.059474103,8300,8.3
+131,TrHatNK,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-1200,-1.2,0,1.084495518,8400,8.4
+132,TrNHitt,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-1100,-1.1,0,0.116613671,8500,8.5
+133,TrTabal,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-900,-0.9,1,0.257339289,8700,8.7
+134,TrPhryg,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-800,-0.8,1,0.435412933,8800,8.8
+135,TrLydia,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-600,-0.6,0,1.671260124,9000,9
+136,TrLysim,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-300,-0.3,0,1.561921625,9300,9.3
+137,TrCappL,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,-100,-0.1,0,1.194760838,9500,9.5
+138,TrRomDm,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,300,0.3,1,3.346181523,9900,9.9
+139,TrERom*,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,400,0.4,1,3.295183124,10000,10
+140,TrERom*,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,500,0.5,1,3.402746863,10100,10.1
+141,TrERom*,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,600,0.6,0,3.186378,10200,10.2
+142,TrByzM1,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,700,0.7,0,2.591210825,10300,10.3
+143,TrByzM1,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,800,0.8,0,2.63987315,10400,10.4
+144,TrByzM2,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,900,0.9,0,2.907708296,10500,10.5
+145,TrByzM2,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1000,1,0,2.954012359,10600,10.6
+146,TrRum**,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1100,1.1,0,1.787969015,10700,10.7
+147,TrOttm1,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1400,1.4,1,2.114496806,11000,11
+148,TrOttm2,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1500,1.5,1,2.890121623,11100,11.1
+149,TrOttm3,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1600,1.6,0,3.628241348,11200,11.2
+150,TrOttm4,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1700,1.7,0,3.602826814,11300,11.3
+151,TrOttm4,Konya Plain,Southwest Asia,36S,S,1,Southwest Asia,1,1,1800,1.8,0,3.626041906,11400,11.4
+152,ItLatCA,Latium,Europe,33T,T,1,Europe,1,1,-3600,-3.6,1,-4.063924067,0,0
+153,ItLatBA,Latium,Europe,33T,T,1,Europe,1,1,-1800,-1.8,0,-5.233891392,1800,1.8
+154,ItLatBA,Latium,Europe,33T,T,1,Europe,1,1,-1200,-1.2,0,-4.564642675,2400,2.4
+155,ItLatIA,Latium,Europe,33T,T,1,Europe,1,1,-1000,-1,1,-4.648557514,2600,2.6
+156,ItLatIA,Latium,Europe,33T,T,1,Europe,1,1,-800,-0.8,1,-4.28024138,2800,2.8
+157,ItRomRg,Latium,Europe,33T,T,1,Europe,1,1,-700,-0.7,0,-0.524953261,2900,2.9
+158,ItRomRg,Latium,Europe,33T,T,1,Europe,1,1,-600,-0.6,0,-0.341931867,3000,3
+159,ItRomER,Latium,Europe,33T,T,1,Europe,1,1,-500,-0.5,0,0.053970123,3100,3.1
+160,ItRomER,Latium,Europe,33T,T,1,Europe,1,1,-400,-0.4,0,0.092888845,3200,3.2
+161,ItRomER,Latium,Europe,33T,T,1,Europe,1,1,-300,-0.3,0,0.757678054,3300,3.3
+162,ItRomMR,Latium,Europe,33T,T,1,Europe,1,1,-200,-0.2,0,1.720302538,3400,3.4
+163,ItRomLR,Latium,Europe,33T,T,1,Europe,1,1,-100,-0.1,0,2.316363898,3500,3.5
+164,ItRomPr,Latium,Europe,33T,T,1,Europe,1,1,0,0,0,3.239792745,3600,3.6
+165,ItRomPr,Latium,Europe,33T,T,1,Europe,1,1,100,0.1,0,3.278622759,3700,3.7
+166,ItRomPr,Latium,Europe,33T,T,1,Europe,1,1,200,0.2,0,3.263123294,3800,3.8
+167,ItRomWe,Latium,Europe,33T,T,1,Europe,1,1,400,0.4,1,3.292886817,4000,4
+168,ItOstrg,Latium,Europe,33T,T,1,Europe,1,1,500,0.5,1,2.393347411,4100,4.1
+169,ItRav**,Latium,Europe,33T,T,1,Europe,1,1,600,0.6,0,1.488484778,4200,4.2
+170,ItRav**,Latium,Europe,33T,T,1,Europe,1,1,700,0.7,0,1.676798333,4300,4.3
+171,ItStPet,Latium,Europe,33T,T,1,Europe,1,1,800,0.8,0,1.646586363,4400,4.4
+172,ItStPet,Latium,Europe,33T,T,1,Europe,1,1,900,0.9,0,1.512882928,4500,4.5
+173,ItPapEM,Latium,Europe,33T,T,1,Europe,1,1,1000,1,0,1.347711879,4600,4.6
+174,ItPapEM,Latium,Europe,33T,T,1,Europe,1,1,1100,1.1,0,1.238079675,4700,4.7
+175,ItPapHM,Latium,Europe,33T,T,1,Europe,1,1,1200,1.2,0,1.577120466,4800,4.8
+176,ItPapRn,Latium,Europe,33T,T,1,Europe,1,1,1400,1.4,1,1.420943853,5000,5
+177,ItPapRn,Latium,Europe,33T,T,1,Europe,1,1,1500,1.5,1,1.361314633,5100,5.1
+178,ItPapM1,Latium,Europe,33T,T,1,Europe,1,1,1600,1.6,0,1.901048057,5200,5.2
+179,ItPapM2,Latium,Europe,33T,T,1,Europe,1,1,1700,1.7,0,2.068590396,5300,5.3
+180,ItPapM2,Latium,Europe,33T,T,1,Europe,1,1,1800,1.8,0,2.107759461,5400,5.4
+181,RuYakuE,Lena River Valley,Central Eurasia,52V,V,1,Central Eurasia,1,1,1400,1.4,1,-4.964455518,0,0
+182,RuYakuL,Lena River Valley,Central Eurasia,52V,V,1,Central Eurasia,1,1,1700,1.7,0,-2.083434447,300,0.3
+183,RuYakuL,Lena River Valley,Central Eurasia,52V,V,1,Central Eurasia,1,1,1900,1.9,0,-1.573062961,500,0.5
+184,EcJivaE,Lowland Andes,South America,18M,M,0,No,0,0,1600,1.6,0,-4.531548079,0,0
+185,EcJivaL,Lowland Andes,South America,18M,M,0,No,0,0,1900,1.9,0,-3.752903352,300,0.3
+186,CnYngsh,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-5000,-5,0,-3.650502913,0,0
+187,CnLngsh,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-3000,-3,0,-0.441021363,2000,2
+188,CnErlit,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-1800,-1.8,0,0.062452132,3200,3.2
+189,CnErlig,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-1600,-1.6,0,0.840140689,3400,3.4
+190,CnShang,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-1200,-1.2,0,1.301912654,3800,3.8
+191,CnWZhou,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-1100,-1.1,0,1.659993395,3900,3.9
+192,CnWZhou,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-1000,-1,1,1.619276027,4000,4
+193,CnWZhou,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-900,-0.9,1,1.717124673,4100,4.1
+194,CnWZhou,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-800,-0.8,1,1.744159803,4200,4.2
+195,CnJinSA,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-700,-0.7,0,1.227857458,4300,4.3
+196,CnWeiWS,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-400,-0.4,0,1.051738182,4600,4.6
+197,CnWeiWS,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-300,-0.3,0,1.42283802,4700,4.7
+198,CnWHan*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-200,-0.2,0,2.966325332,4800,4.8
+199,CnWHan*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,-100,-0.1,0,3.022406159,4900,4.9
+200,CnWHan*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,0,0,0,3.028982174,5000,5
+201,CnEHan*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,100,0.1,0,2.865716304,5100,5.1
+202,CnEHan*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,200,0.2,0,2.241341832,5200,5.2
+203,CnErJin,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,300,0.3,1,2.884879513,5300,5.3
+204,CnNWei*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,400,0.4,1,2.177267042,5400,5.4
+205,CnNWei*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,500,0.5,1,2.474427092,5500,5.5
+206,CnSui**,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,600,0.6,0,2.742862672,5600,5.6
+207,CnTangE,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,700,0.7,0,3.041331652,5700,5.7
+208,CnTangL,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,800,0.8,0,2.991191205,5800,5.8
+209,CnTangL,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,900,0.9,0,2.937513954,5900,5.9
+210,CnNSong,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1000,1,0,3.601534628,6000,6
+211,CnNSong,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1100,1.1,0,3.670897178,6100,6.1
+212,CnLrJin,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1200,1.2,0,3.319859578,6200,6.2
+213,CnYuan*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1300,1.3,1,3.698833459,6300,6.3
+214,CnMing*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1400,1.4,1,3.147204489,6400,6.4
+215,CnMing*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1500,1.5,1,3.338192074,6500,6.5
+216,CnMing*,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1600,1.6,0,3.490125979,6600,6.6
+217,CnQingE,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1700,1.7,0,3.876727656,6700,6.7
+218,CnQingL,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1800,1.8,0,3.951023618,6800,6.8
+219,CnQingL,Middle Yellow River Valley,East Asia,50S,S,1,East Asia,1,1,1900,1.9,0,3.992076999,6900,6.9
+220,MlJeJe1,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,-200,-0.2,0,-5.032007149,0,0
+221,MlJeJe2,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,100,0.1,0,-3.986284481,300,0.3
+222,MlJeJe3,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,400,0.4,1,-3.000262376,600,0.6
+223,MlJeJe3,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,700,0.7,0,-3.010384196,900,0.9
+224,MlJeJe4,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,900,0.9,0,-1.700188008,1100,1.1
+225,MrWagdM,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1000,1,0,0.156901034,1200,1.2
+226,MrWagdL,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1100,1.1,0,1.066461942,1300,1.3
+227,MlMali*,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1300,1.3,1,1.16454553,1500,1.5
+228,MlMali*,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1400,1.4,1,1.256457907,1600,1.6
+229,MlSong2,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1500,1.5,1,1.776159232,1700,1.7
+230,MaSaadi,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1600,1.6,0,2.240186932,1800,1.8
+231,MlBaman,Niger Inland Delta,Africa,30P-Q,P,0,No,0,1,1800,1.8,0,1.605025284,2000,2
+232,CoNahua,North Colombia,South America,18P,P,0,No,0,0,300,0.3,1,-3.382548692,0,0
+233,CoNahua,North Colombia,South America,18P,P,0,No,0,0,600,0.6,0,-3.614987805,300,0.3
+234,CoNahua,North Colombia,South America,18P,P,0,No,0,0,700,0.7,0,-3.369881359,400,0.4
+235,CoNahua,North Colombia,South America,18P,P,0,No,0,0,800,0.8,0,-3.479476502,500,0.5
+236,CoNahua,North Colombia,South America,18P,P,0,No,0,0,900,0.9,0,-3.207999421,600,0.6
+237,CoNahua,North Colombia,South America,18P,P,0,No,0,0,1000,1,0,-3.495275334,700,0.7
+238,CoTairo,North Colombia,South America,18P,P,0,No,0,0,1100,1.1,0,-2.298477951,800,0.8
+239,CoTairo,North Colombia,South America,18P,P,0,No,0,0,1200,1.2,0,-1.975876876,900,0.9
+240,CoTairo,North Colombia,South America,18P,P,0,No,0,0,1400,1.4,1,-1.69100567,1100,1.1
+241,MnXngnE,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,-1400,-1.4,0,-2.825727943,0,0
+242,MnXngnE,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,-400,-0.4,0,-2.921621956,1000,1
+243,MnXngnM,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,-200,-0.2,0,-1.294428652,1200,1.2
+244,MnXngnL,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,0,0,0,-1.372891054,1400,1.4
+245,MnXianb,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,100,0.1,0,-1.869127096,1500,1.5
+246,MnRourn,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,300,0.3,1,-1.741184698,1700,1.7
+247,MnRourn,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,500,0.5,1,-0.650153746,1900,1.9
+248,MnETurk,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,600,0.6,0,0.118841009,2000,2
+249,MnTurk2,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,700,0.7,0,0.050867653,2100,2.1
+250,MnUigur,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,800,0.8,0,0.509871438,2200,2.2
+251,MnKhit2,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,1000,1,0,2.294545384,2400,2.4
+252,MnMongE,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,1200,1.2,0,-2.993137929,2600,2.6
+253,MnMngKh,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,1300,1.3,1,3.322411537,2700,2.7
+254,MnMongL,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,1400,1.4,1,1.153362109,2800,2.8
+255,MnMongL,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,1600,1.6,0,0.592969931,3000,3
+256,MnZungh,Orkhon Valley,Central Eurasia,48T,T,1,Central Eurasia,1,1,1700,1.7,0,1.370240022,3100,3.1
+257,PgOrokE,Oro PNG,Oceania-Australia,55L,L,0,No,0,0,1800,1.8,0,-3.461234371,0,0
+258,PgOrokL,Oro PNG,Oceania-Australia,55L,L,0,No,0,0,1900,1.9,0,-0.995567619,100,0.1
+259,FrBeakr,Paris Basin,Europe,31U,U,1,Europe,1,1,-3200,-3.2,0,-3.740315376,0,0
+260,FrAtlBA,Paris Basin,Europe,31U,U,1,Europe,1,1,-2200,-2.2,1,-3.655977078,1000,1
+261,FrHallA,Paris Basin,Europe,31U,U,1,Europe,1,1,-1000,-1,1,-4.301135259,2200,2.2
+262,FrHallB,Paris Basin,Europe,31U,U,1,Europe,1,1,-900,-0.9,1,-3.466148742,2300,2.3
+263,FrHallB,Paris Basin,Europe,31U,U,1,Europe,1,1,-800,-0.8,1,-3.427501262,2400,2.4
+264,FrHallC,Paris Basin,Europe,31U,U,1,Europe,1,1,-700,-0.7,0,-3.064408222,2500,2.5
+265,FrHallD,Paris Basin,Europe,31U,U,1,Europe,1,1,-600,-0.6,0,-2.522376015,2600,2.6
+266,FrTeneA,Paris Basin,Europe,31U,U,1,Europe,1,1,-400,-0.4,0,-1.877516057,2800,2.8
+267,FrTeneB,Paris Basin,Europe,31U,U,1,Europe,1,1,-300,-0.3,0,-1.450329552,2900,2.9
+268,FrTeneB,Paris Basin,Europe,31U,U,1,Europe,1,1,-200,-0.2,0,-0.915117986,3000,3
+269,FrTeneC,Paris Basin,Europe,31U,U,1,Europe,1,1,-100,-0.1,0,-0.448260687,3100,3.1
+270,FrMervE,Paris Basin,Europe,31U,U,1,Europe,1,1,500,0.5,1,1.57783469,3700,3.7
+271,FrMervM,Paris Basin,Europe,31U,U,1,Europe,1,1,600,0.6,0,1.510469591,3800,3.8
+272,FrMervL,Paris Basin,Europe,31U,U,1,Europe,1,1,700,0.7,0,1.414874289,3900,3.9
+273,FrCarlE,Paris Basin,Europe,31U,U,1,Europe,1,1,800,0.8,0,1.898453583,4000,4
+274,FrCarlL,Paris Basin,Europe,31U,U,1,Europe,1,1,900,0.9,0,1.413890795,4100,4.1
+275,FrCaptE,Paris Basin,Europe,31U,U,1,Europe,1,1,1000,1,0,1.113635528,4200,4.2
+276,FrCaptE,Paris Basin,Europe,31U,U,1,Europe,1,1,1100,1.1,0,0.804446635,4300,4.3
+277,FrCaptL,Paris Basin,Europe,31U,U,1,Europe,1,1,1200,1.2,0,2.492080262,4400,4.4
+278,FrCaptL,Paris Basin,Europe,31U,U,1,Europe,1,1,1300,1.3,1,2.470491326,4500,4.5
+279,FrValoE,Paris Basin,Europe,31U,U,1,Europe,1,1,1400,1.4,1,2.413516371,4600,4.6
+280,FrValoL,Paris Basin,Europe,31U,U,1,Europe,1,1,1500,1.5,1,2.939305466,4700,4.7
+281,FrBurbE,Paris Basin,Europe,31U,U,1,Europe,1,1,1600,1.6,0,3.30155892,4800,4.8
+282,FrBurbL,Paris Basin,Europe,31U,U,1,Europe,1,1,1700,1.7,0,3.746243819,4900,4.9
+283,TjSaraz,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-3500,-3.5,0,-3.715781639,0,0
+284,KzAndro,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-2000,-2,0,-3.833213856,1500,1.5
+285,UzKok01,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-1400,-1.4,0,-4.47238087,2100,2.1
+286,UzKok01,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-1000,-1,1,-3.693983241,2500,2.5
+287,UzKhw01,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-900,-0.9,1,-4.142468385,2600,2.6
+288,UzKhw01,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-800,-0.8,1,-3.076404378,2700,2.7
+289,UzKok02,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-700,-0.7,0,-2.994779428,2800,2.8
+290,AfGrBct,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-200,-0.2,0,1.716623501,3300,3.3
+291,AfTochr,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,-100,-0.1,0,0.859517311,3400,3.4
+292,AfTochr,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,0,0,0,0.20180101,3500,3.5
+293,AfKushn,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,100,0.1,0,2.154290014,3600,3.6
+294,AfKushn,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,200,0.2,0,2.117070315,3700,3.7
+295,AfHepht,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,500,0.5,1,1.936678922,4000,4
+296,KgWTurk,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,600,0.6,0,1.02844517,4100,4.1
+297,UzSogdi,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,700,0.7,0,0.776967492,4200,4.2
+298,UzSamnd,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,900,0.9,0,2.530084962,4400,4.4
+299,KgKarKh,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1000,1,0,2.217370315,4500,4.5
+300,KgKarKh,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1100,1.1,0,1.728691293,4600,4.6
+301,KgKarKh,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1200,1.2,0,2.169709601,4700,4.7
+302,UzChagt,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1300,1.3,1,1.508453527,4800,4.8
+303,UzTimur,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1400,1.4,1,2.718965903,4900,4.9
+304,UzTimur,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1500,1.5,1,2.555821239,5000,5
+305,UzJanid,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1600,1.6,0,1.685382032,5100,5.1
+306,UzJanid,Sogdiana,Central Eurasia,42S,S,1,Central Eurasia,1,1,1700,1.7,0,1.818655336,5200,5.2
+307,CnHQngL,Southern China Hills,East Asia,48R,R,1,East Asia,1,1,1800,1.8,0,-1.247028998,0,0
+308,CnHChin,Southern China Hills,East Asia,48R,R,1,East Asia,1,1,1900,1.9,0,-0.03276102,100,0.1
+309,IrPrCer,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-7800,-7.8,0,-4.649653504,0,0
+310,IrForma,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-7200,-7.2,0,-4.575944173,600,0.6
+311,IrArcha,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-7000,-7,0,-4.178584639,800,0.8
+312,IrKhzE*,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-6000,-6,0,-4.067899402,1800,1.8
+313,IrKhzEM,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-5700,-5.7,0,-4.32139714,2100,2.1
+314,IrKhzM*,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-5100,-5.1,0,-3.814965247,2700,2.7
+315,IrKhzM*,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-5000,-5,0,-3.544333714,2800,2.8
+316,IrKhzL*,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-4700,-4.7,0,-3.38720507,3100,3.1
+317,IrSusa1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-4300,-4.3,0,-3.012936427,3500,3.5
+318,IrSusa1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3900,-3.9,0,-3.599863492,3900,3.9
+319,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3800,-3.8,1,-1.360002961,4000,4
+320,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3700,-3.7,1,-0.725476022,4100,4.1
+321,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3600,-3.6,1,-0.655282254,4200,4.2
+322,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3500,-3.5,0,-0.440645205,4300,4.3
+323,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3400,-3.4,0,-0.375127015,4400,4.4
+324,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3300,-3.3,0,-0.342282449,4500,4.5
+325,IrSusa2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3200,-3.2,0,-0.497880766,4600,4.6
+326,IrSusa3,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3100,-3.1,0,-0.742733217,4700,4.7
+327,IrSusa3,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-3000,-3,0,0.178165632,4800,4.8
+328,IrAwanE,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-2600,-2.6,0,0.625131507,5200,5.2
+329,IqAkkad,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-2200,-2.2,1,1.516226996,5600,5.6
+330,IrShima,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-2000,-2,0,1.411082554,5800,5.8
+331,IrSukkE,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1900,-1.9,0,1.320790814,5900,5.9
+332,IrSukkE,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1800,-1.8,0,1.047140975,6000,6
+333,IrSukkL,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1700,-1.7,0,0.938616494,6100,6.1
+334,IrSukkL,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1600,-1.6,0,0.934574946,6200,6.2
+335,IrMElm1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1500,-1.5,0,0.775985068,6300,6.3
+336,IrMElm2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1400,-1.4,0,1.407901548,6400,6.4
+337,IrMElm2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1300,-1.3,0,1.047819475,6500,6.5
+338,IrMElm3,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-1200,-1.2,0,1.198848661,6600,6.6
+339,IrNElm1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-900,-0.9,1,0.650827459,6900,6.9
+340,IrNElm2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-700,-0.7,0,1.314325883,7100,7.1
+341,IrNElm3,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-600,-0.6,0,-0.116058288,7200,7.2
+342,IrAchae,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-500,-0.5,0,2.943321531,7300,7.3
+343,IrAchae,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-400,-0.4,0,2.918764993,7400,7.4
+344,IrSeleu,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-300,-0.3,0,2.641265288,7500,7.5
+345,IrSeleu,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-200,-0.2,0,1.853641364,7600,7.6
+346,IrPart1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,-100,-0.1,0,2.221047296,7700,7.7
+347,IrPart1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,0,0,0,2.392426552,7800,7.8
+348,IrElym2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,100,0.1,0,1.756570999,7900,7.9
+349,IrSasn1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,300,0.3,1,2.172826203,8100,8.1
+350,IrSasn1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,400,0.4,1,2.306820721,8200,8.2
+351,IrSasn2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,500,0.5,1,2.490227857,8300,8.3
+352,IrSasn2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,600,0.6,0,2.767566397,8400,8.4
+353,SyCalUm,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,700,0.7,0,2.409357384,8500,8.5
+354,IqAbbs1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,800,0.8,0,2.669915346,8600,8.6
+355,IqAbbs1,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,900,0.9,0,2.418703645,8700,8.7
+356,IrBuyid,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,1000,1,0,2.319681977,8800,8.8
+357,IrSeljq,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,1100,1.1,0,2.671077048,8900,8.9
+358,IqAbbs2,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,1200,1.2,0,2.366173202,9000,9
+359,IrIlkhn,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,1300,1.3,1,2.638029829,9100,9.1
+360,IrAkKoy,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,1500,1.5,1,1.916108253,9300,9.3
+361,IrSafvd,Susiana,Southwest Asia,39R,R,1,Southwest Asia,1,1,1600,1.6,0,2.556507111,9400,9.4
+362,EgBadar,Upper Egypt,Africa,36R,R,1,Africa,1,1,-4400,-4.4,0,-4.415045656,0,0
+363,EgNaqa1,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3800,-3.8,1,-4.317915309,600,0.6
+364,EgNaqa1,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3700,-3.7,1,-2.865830254,700,0.7
+365,EgNaqa1,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3600,-3.6,1,-2.702417613,800,0.8
+366,EgNaqa2,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3500,-3.5,0,-1.895500683,900,0.9
+367,EgNaqa2,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3400,-3.4,0,-1.673360521,1000,1
+368,EgNaqa3,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3300,-3.3,0,-1.516472209,1100,1.1
+369,EgNaqa3,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3200,-3.2,0,-1.528071329,1200,1.2
+370,EgDyn1*,Upper Egypt,Africa,36R,R,1,Africa,1,1,-3100,-3.1,0,0.01051487,1300,1.3
+371,EgDyn2*,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2900,-2.9,0,-0.094148275,1500,1.5
+372,EgDyn2*,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2800,-2.8,0,-0.006689135,1600,1.6
+373,EgDyn2*,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2700,-2.7,0,0.003688801,1700,1.7
+374,EgOldK1,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2600,-2.6,0,1.19674236,1800,1.8
+375,EgOldK2,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2300,-2.3,1,1.349561967,2100,2.1
+376,EgRegns,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2100,-2.1,0,-0.497668013,2300,2.3
+377,EgMidKg,Upper Egypt,Africa,36R,R,1,Africa,1,1,-2000,-2,0,1.263262148,2400,2.4
+378,EgMidKg,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1900,-1.9,0,1.312347288,2500,2.5
+379,EgMidKg,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1800,-1.8,0,1.319988219,2600,2.6
+380,EgThebH,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1700,-1.7,0,0.857779205,2700,2.7
+381,EgNKThu,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1500,-1.5,0,1.701252354,2900,2.9
+382,EgNKThu,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1400,-1.4,0,1.768324475,3000,3
+383,EgNKThu,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1300,-1.3,0,1.77770737,3100,3.1
+384,EgNKRam,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1200,-1.2,0,1.913193083,3200,3.2
+385,EgNKRam,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1100,-1.1,0,1.888759352,3300,3.3
+386,EgThebL,Upper Egypt,Africa,36R,R,1,Africa,1,1,-1000,-1,1,1.170073001,3400,3.4
+387,EgThebL,Upper Egypt,Africa,36R,R,1,Africa,1,1,-900,-0.9,1,1.370002142,3500,3.5
+388,SdKusht,Upper Egypt,Africa,36R,R,1,Africa,1,1,-700,-0.7,0,1.538367244,3700,3.7
+389,EgSaite,Upper Egypt,Africa,36R,R,1,Africa,1,1,-600,-0.6,0,1.481157172,3800,3.8
+390,EgIntOc,Upper Egypt,Africa,36R,R,1,Africa,1,1,-400,-0.4,0,1.90052776,4000,4
+391,EgPtol1,Upper Egypt,Africa,36R,R,1,Africa,1,1,-300,-0.3,0,2.817185787,4100,4.1
+392,EgPtol2,Upper Egypt,Africa,36R,R,1,Africa,1,1,-200,-0.2,0,2.720886166,4200,4.2
+393,EgPtol2,Upper Egypt,Africa,36R,R,1,Africa,1,1,-100,-0.1,0,2.740443915,4300,4.3
+394,EgTulIk,Upper Egypt,Africa,36R,R,1,Africa,1,1,900,0.9,0,2.077287474,5300,5.3
+395,TnFatim,Upper Egypt,Africa,36R,R,1,Africa,1,1,1000,1,0,2.770832023,5400,5.4
+396,TnFatim,Upper Egypt,Africa,36R,R,1,Africa,1,1,1100,1.1,0,2.602517512,5500,5.5
+397,EgAyyub,Upper Egypt,Africa,36R,R,1,Africa,1,1,1200,1.2,0,2.5263897,5600,5.6
+398,EgMamBh,Upper Egypt,Africa,36R,R,1,Africa,1,1,1300,1.3,1,2.86479132,5700,5.7
+399,EgMamCP,Upper Egypt,Africa,36R,R,1,Africa,1,1,1400,1.4,1,2.943256044,5800,5.8
+400,EgMamBu,Upper Egypt,Africa,36R,R,1,Africa,1,1,1500,1.5,1,2.786096828,5900,5.9
+401,MxTieLa,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-1400,-1.4,0,-5.022435801,0,0
+402,MxSanGu,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-1100,-1.1,0,-4.860179362,300,0.3
+403,MxRosar,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-700,-0.7,0,-4.233845506,700,0.7
+404,MxAlb1E,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-500,-0.5,0,-3.793056993,900,0.9
+405,MxAlb1E,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-400,-0.4,0,-3.66451751,1000,1
+406,MxAlb1L,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-300,-0.3,0,-2.44964207,1100,1.1
+407,MxAlb2*,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,-100,-0.1,0,-2.403367661,1300,1.3
+408,MxAlb3A,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,200,0.2,0,-2.130195263,1600,1.6
+409,MxAlb3B,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,500,0.5,1,-2.180253843,1900,1.9
+410,MxAlb3B,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,700,0.7,0,-1.987622258,2100,2.1
+411,MxAlb5*,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,900,0.9,0,-2.494462007,2300,2.3
+412,MxAlb5*,Valley of Oaxaca,North America,14Q,Q,0,No,0,0,1000,1,0,-2.478408139,2400,2.4
+413,YeQasmi,Yemeni Coastal Plain,Southwest Asia,38P,P,0,No,0,1,1700,1.7,0,0.052057011,0,0
+414,YeOttoL,Yemeni Coastal Plain,Southwest Asia,38P,P,0,No,0,1,1900,1.9,0,-0.946817045,200,0.2
