@@ -54,7 +54,7 @@ confint(res)
 ####################################################################
 # Regressions for Table 3
 
-eq <- PC1 ~ TimeK * AgeK +I(AgeK^2)  + OldWorld + CoolingPeriod*InNorthernRegion + (1 | NGA)
+eq <- PC1 ~ TimeK * AgeK +I(AgeK^2)  + OldWorld + InNorthernRegion + CoolingPeriod:I(1-InNorthernRegion) + CoolingPeriod:InNorthernRegion + (1 | NGA)
 
 # Table 3A - full sample
 summary(res <- lmer(eq,data=S0))
